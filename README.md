@@ -1,4 +1,4 @@
-# lonleyfe7randomizer
+# lonelyfe7randomizer
 A randomizer for FE7 with some twists.
 Features:
 
