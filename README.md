@@ -8,7 +8,7 @@ Quality Of Life
 - Colored Stat Labels
 - Items Below Mini Mug
 
-As well as smaller adjustments such as some tutorial scenes skipped. Quality of Life patches from FE Builder such as Global Ranges, Display Growths, All Modes Open, and Disable Tutorials are also pre-installed.
+As well as smaller adjustments such as some tutorial scenes skipped. Quality of Life patches from FE Builder such as Global Ranges, Display Growths, All Modes Open, and Disable Tutorials are included as optional patches.
 
 Pre-Configured Randomization For Player And Enemy Units
 - Player classes, bases, and growths can be randomized and they will have new palettes suitable for their class.
